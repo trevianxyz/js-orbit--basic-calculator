@@ -10,7 +10,7 @@ return(x / y);
 }
 
 if (times)
-console.log();
+console.log(times);
 
 if (division)
-console.log();
+console.log(division);

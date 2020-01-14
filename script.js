@@ -1,11 +1,13 @@
 let x = "value1";
 let y = "value2";
 
-function times(x, y) {
+function multiplyfn(x, y) {
 return(x * y);
 }
 
-function division(x, y) {
+ alert(inputVal);
+
+function dividefn(x, y) {
 return(x / y);
 }
 
